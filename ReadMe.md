@@ -124,7 +124,7 @@ The project\_notes file has the full list of everything I thought about, but the
 
 \- Two Silver tables instead of one.\*\* The raw file has each restaurant showing up once per Zomato listing category (Delivery, Dine-out, Buffet, and so on). If I dedup into a single table I lose the listing type. Fix was to split: `silver.restaurants` has one row per real restaurant, `silver.restaurant\_listings` keeps all the listing rows. Classic fact and dimension split.
 
-\- No fake data. Thought about generating synthetic restaurants to have more rows to work with, but dropped the idea. The real 12,494 are enough to answer the questions I wanted to answer. Bigger datasets come later in the NYC Taxi and IPL projects.
+\- No fake data. Thought about generating synthetic restaurants to have more rows to work with, but dropped the idea. The real 12,494 are enough to answer the questions I wanted to answer. Bigger datasets come later in the projects.
 
 \- No indexes on Silver. At 12K rows SQL Server will scan the whole table anyway - I checked the execution plan and confirmed it. Adding indexes just for show would look bad if anyone asked why, because I could not give a real reason.
 

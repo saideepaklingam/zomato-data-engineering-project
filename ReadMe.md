@@ -1,6 +1,11 @@
-\# Zomato Bangalore - Data Engineering Project
+## Zomato Bangalore - Data Engineering Project
 
 This project takes raw restaurant data from Kaggle (Zomato Bangalore, around 51,000 rows) and turns it into a working Power BI dashboard. The pipeline goes through three layers - Bronze, Silver, and Gold - using SQL Server, Python, and Power BI. Also added sentiment scoring on the review text and KMeans clustering to group the restaurants into segments.
+
+## Data source
+
+[Zomato Bangalore Restaurants dataset on Kaggle](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
+— 51,717 rows, 17 columns, covering restaurant names, addresses, ratings, costs, cuisines, online ordering flags, and user reviews across 93 Bangalore localities.
 
 ## Dashboard Preview
 
@@ -11,7 +16,7 @@ This project takes raw restaurant data from Kaggle (Zomato Bangalore, around 51,
 ![Dashboard - Page 3: Rating Truth Check](./dashboard/screenshots/page3_truth_check.png)
 
 
-\## Tools used and why
+## Tools used and why
 
 |Layer|Tool|Reason|
 |-|-|-|
@@ -24,13 +29,13 @@ This project takes raw restaurant data from Kaggle (Zomato Bangalore, around 51,
 
 What I left out on purpose: Airflow (one CSV doesn't need a scheduler), Spark (data is too small), indexes on Silver (12K rows will get scanned anyway, indexes don't help). Each of these is a choice I can defend, not something I forgot.
 
-\## How the data flows
+## How the data flows
 
 ![Pipeline Aarchitecture](pipeline.png)
 
 Source CSV gets loaded into Bronze with pandas. Silver does the cleaning and dedup in T-SQL, splitting into a restaurant dimension and a listings fact. Gold has six aggregate tables for the dashboard, plus two ML extensions (sentiment scores and KMeans segments) and one view that joins them. Power BI reads only from Gold.
 
-\## Main findings
+## Main findings
 
 The dashboard is built around four insights:
 
@@ -42,7 +47,7 @@ The dashboard is built around four insights:
 
 4\. About a quarter of Bangalore restaurants are "undiscovered favourites". 5,796 places that are cheap, don't have many votes, but the people who do eat there write very positive reviews. Good marketing target for any platform that wants to help these places get seen.
 
-\## How to run this yourself
+## How to run this yourself
 
 ```bash
 
@@ -82,7 +87,7 @@ The dashboard is built around four insights:
 
 Change the server name in the Python scripts and in the Power BI connection if you are not running against `SAIDEEPAK-PC\\SQLEXPRESS` with Windows Auth.
 
-\## Folder layout
+## Folder layout
 
 ```
 zomato-data-engineering-project/
@@ -119,7 +124,8 @@ zomato-data-engineering-project/
 
 ```
 
-\## Decisions worth calling out
+## Decisions worth calling out
+
 The project\_notes file has the full list of everything I thought about, but these are the ones I would talk about in an interview:
 
 \- Two Silver tables instead of one.\*\* The raw file has each restaurant showing up once per Zomato listing category (Delivery, Dine-out, Buffet, and so on). If I dedup into a single table I lose the listing type. Fix was to split: `silver.restaurants` has one row per real restaurant, `silver.restaurant\_listings` keeps all the listing rows. Classic fact and dimension split.
@@ -132,5 +138,6 @@ The project\_notes file has the full list of everything I thought about, but the
 
 \- Showed both total and rated restaurant counts in the KPI table. 12,494 restaurants total, only 9,491 have a real rating (the rest are marked "NEW" or "-"). First version quietly hid those 3,000. Do not let a WHERE clause change a count without telling the reader.
 
-\## Author
-Sai Deepak. This is project 1 of 4 in a data engineering portfolio. The other use different tools - Python and PySpark on Databricks, and PySpark with ML - each chosen to fit the data size and question of that project.
+## Author
+
+[Sai Deepak](https://github.com/saideepaklingam) · This is project 1 of 4 in a data engineering portfolio. The other use different tools - Python and PySpark on Databricks, and PySpark with ML - each chosen to fit the data size and question of that project.

@@ -1,0 +1,60 @@
+location,primary_cuisine,supply,avg_rating,demand_signal,votes_per_restaurant
+Marathahalli,European,3,4.5,16951,5650
+Church Street,American,2,4.15,8525,4262
+Brigade Road,American,4,4.23,14268,3567
+Indiranagar,European,3,4.33,10274,3424
+Koramangala 4th Block,American,3,4.37,9222,3074
+Lavelle Road,Continental,3,4.2,8184,2728
+Marathahalli,Asian,3,4.13,7558,2519
+Lavelle Road,European,3,4.3,5944,1981
+Domlur,Continental,2,4.15,3847,1923
+Indiranagar,Japanese,2,4.0,3834,1917
+MG Road,Asian,3,4.43,5723,1907
+St. Marks Road,Cafe,2,4.2,3688,1844
+Residency Road,Continental,4,4.2,6583,1645
+Church Street,Finger Food,2,4.15,3071,1535
+Indiranagar,Modern Indian,2,4.45,2889,1444
+Koramangala 5th Block,Asian,3,4.3,3874,1291
+Whitefield,European,5,4.12,6352,1270
+Sarjapur Road,European,2,4.5,2517,1258
+Lavelle Road,Japanese,2,4.4,2432,1216
+St. Marks Road,Continental,2,4.2,2424,1212
+Church Street,Continental,3,4.1,3284,1094
+HSR,Finger Food,2,4.3,2166,1083
+Koramangala 6th Block,Bengali,2,4.05,2165,1082
+MG Road,Thai,3,4.23,3195,1065
+MG Road,Chinese,3,4.33,3000,1000
+Koramangala 5th Block,Mexican,2,4.3,1969,984
+Lavelle Road,Italian,4,4.25,3722,930
+Sadashiv Nagar,North Indian,4,4.2,3680,920
+Kammanahalli,Pizza,3,4.0,2741,913
+New BEL Road,Italian,2,4.05,1809,904
+Richmond Road,European,2,4.45,1790,895
+Church Street,Chinese,2,4.2,1517,758
+Lavelle Road,Spanish,2,4.25,1512,756
+Jayanagar,Italian,4,4.08,3013,753
+Kalyan Nagar,Finger Food,2,4.05,1471,735
+Malleshwaram,Italian,3,4.17,2126,708
+Indiranagar,Thai,3,4.17,2114,704
+Koramangala 5th Block,Mughlai,3,4.03,2079,693
+Whitefield,Rajasthani,2,4.05,1384,692
+Indiranagar,Mexican,5,4.2,3447,689
+Koramangala 6th Block,Continental,5,4.0,3344,668
+Residency Road,Ice Cream,4,4.0,2660,665
+Koramangala 4th Block,Finger Food,3,4.0,1889,629
+Infantry Road,Cafe,2,4.0,1232,616
+Lavelle Road,Asian,3,4.1,1815,605
+MG Road,American,4,4.33,2301,575
+Bannerghatta Road,American,3,4.0,1715,571
+Jayanagar,Healthy Food,3,4.17,1705,568
+Koramangala 7th Block,Ice Cream,3,4.17,1706,568
+Marathahalli,BBQ,3,4.03,1637,545
+Koramangala 7th Block,Tibetan,3,4.0,1600,533
+Ulsoor,Finger Food,3,4.1,1594,531
+Indiranagar,Seafood,4,4.25,1904,476
+Sarjapur Road,American,4,4.08,1902,475
+Cunningham Road,Cafe,3,4.0,1423,474
+Koramangala 6th Block,Pizza,5,4.0,1977,395
+Ulsoor,Pizza,3,4.2,1149,383
+Sadashiv Nagar,Cafe,5,4.12,1497,299
+MG Road,Italian,5,4.04,1012,202

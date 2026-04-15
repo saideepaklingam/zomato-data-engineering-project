@@ -1,0 +1,10 @@
+price_tier,has_online_order,n,avg_rating,avg_votes
+Budget,0,939,3.5,59
+Budget,1,1060,3.59,78
+Luxury,0,310,4.1,965
+Luxury,1,114,4.24,1426
+Mid,0,1752,3.47,86
+Mid,1,3576,3.61,168
+Premium,0,697,3.77,530
+Premium,1,993,3.81,554
+Unknown,0,50,3.57,227

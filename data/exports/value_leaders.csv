@@ -1,0 +1,68 @@
+location,n_restaurants,avg_rating,avg_cost,rating_per_1000rs
+City Market,20,3.58,319,11.174
+"Varthur Main Road, Whitefield",29,3.57,337,10.561
+Basavanagudi,180,3.68,352,10.438
+Sanjay Nagar,30,3.56,350,10.162
+Shivajinagar,34,3.48,354,9.809
+Ejipura,32,3.48,356,9.772
+South Bangalore,20,3.47,357,9.706
+Vijay Nagar,49,3.62,375,9.641
+Kumaraswamy Layout,66,3.49,362,9.64
+Thippasandra,51,3.54,371,9.53
+Koramangala 8th Block,30,3.68,393,9.347
+Wilson Garden,33,3.46,371,9.322
+Commercial Street,34,3.57,385,9.275
+CV Raman Nagar,29,3.5,384,9.103
+Jeevan Bhima Nagar,71,3.57,399,8.935
+BTM,536,3.57,400,8.918
+Banashankari,225,3.62,407,8.883
+Koramangala 1st Block,113,3.65,430,8.488
+Basaveshwara Nagar,65,3.6,427,8.41
+Banaswadi,144,3.48,418,8.317
+Yeshwantpur,64,3.49,420,8.309
+Hennur,47,3.46,419,8.249
+Kaggadasapura,50,3.49,426,8.188
+Frazer Town,144,3.63,447,8.106
+Brookefield,143,3.57,443,8.069
+HBR Layout,28,3.64,453,8.016
+Rajajinagar,177,3.59,449,7.992
+Jayanagar,307,3.77,471,7.989
+Sahakara Nagar,40,3.65,460,7.924
+Majestic,62,3.5,450,7.767
+HSR,524,3.65,470,7.76
+RT Nagar,39,3.51,458,7.637
+Nagawara,86,3.5,459,7.623
+Bannerghatta Road,354,3.48,459,7.581
+JP Nagar,382,3.63,480,7.561
+Kammanahalli,129,3.65,490,7.442
+New BEL Road,220,3.64,493,7.38
+Shanti Nagar,51,3.5,475,7.365
+Koramangala 7th Block,130,3.76,528,7.111
+Malleshwaram,204,3.73,525,7.107
+Bommanahalli,56,3.24,464,6.973
+Sarjapur Road,261,3.6,526,6.834
+Bellandur,273,3.5,520,6.715
+Electronic City,458,3.47,523,6.636
+Marathahalli,511,3.53,535,6.583
+Koramangala 5th Block,242,3.93,598,6.563
+Koramangala 6th Block,133,3.73,574,6.493
+Kalyan Nagar,192,3.73,589,6.326
+"ITPL Main Road, Whitefield",35,3.59,578,6.198
+Indiranagar,433,3.79,642,5.899
+Koramangala 4th Block,103,3.84,652,5.879
+Brigade Road,111,3.67,641,5.719
+Domlur,75,3.52,619,5.681
+Whitefield,629,3.6,639,5.632
+Sadashiv Nagar,28,3.79,723,5.24
+Cunningham Road,47,3.74,725,5.155
+Church Street,55,3.88,759,5.116
+St. Marks Road,34,3.92,770,5.092
+Ulsoor,94,3.72,746,4.982
+Old Airport Road,110,3.63,731,4.966
+Vasanth Nagar,43,3.74,839,4.454
+Seshadripuram,46,3.72,838,4.444
+Richmond Road,65,3.83,919,4.162
+Residency Road,74,3.84,997,3.855
+MG Road,85,3.81,1139,3.34
+Lavelle Road,52,4.08,1379,2.955
+Race Course Road,29,3.87,1331,2.909

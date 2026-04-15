@@ -1,0 +1,1221 @@
+city,primary_cuisine,restaurant_count,avg_rating,avg_cost_for_two,total_votes,online_order_ratio
+Koramangala 7th Block,African,1,4.6,1000,415,1.0
+Whitefield,African,1,4.6,1000,595,1.0
+Bannerghatta Road,American,1,,300,0,0.0
+Bellandur,American,1,,200,0,1.0
+Brigade Road,American,3,4.25,1900,854,0.33
+Brookefield,American,1,3.3,200,4,1.0
+BTM,American,1,,200,0,1.0
+Church Street,American,2,,300,0,0.5
+Electronic City,American,3,3.9,500,56,0.67
+Frazer Town,American,1,3.5,400,9,1.0
+HSR,American,3,3.8,366,212,1.0
+Indiranagar,American,3,3.6,433,85,0.33
+Jayanagar,American,2,4.3,800,2519,1.0
+JP Nagar,American,2,3.85,1150,1426,1.0
+Kalyan Nagar,American,4,3.63,800,467,0.75
+Kammanahalli,American,3,4.13,1333,2657,0.67
+Koramangala 4th Block,American,4,3.83,850,915,0.5
+Koramangala 5th Block,American,2,4.05,1200,1053,0.5
+Koramangala 6th Block,American,3,3.9,383,121,0.0
+Koramangala 7th Block,American,6,4.4,1366,16159,0.5
+Lavelle Road,American,2,4.4,1400,2996,0.5
+Malleshwaram,American,2,3.7,400,43,1.0
+Marathahalli,American,1,3.8,600,62,1.0
+Old Airport Road,American,9,3.81,1044,16010,0.67
+Rajajinagar,American,1,4.8,1400,6470,1.0
+Residency Road,American,12,4.25,1558,31787,0.5
+Sarjapur Road,American,5,4.18,1120,3436,0.8
+Whitefield,American,9,4.1,1161,14624,0.44
+Banashankari,Andhra,2,,200,0,0.0
+Bannerghatta Road,Andhra,13,3.45,492,1735,0.46
+Basavanagudi,Andhra,6,3.85,700,2419,0.5
+Bellandur,Andhra,8,3.53,481,41,0.38
+Brigade Road,Andhra,1,4.0,650,787,1.0
+Brookefield,Andhra,8,3.34,450,699,0.38
+BTM,Andhra,15,3.36,341,168,0.4
+Electronic City,Andhra,42,3.47,498,2634,0.45
+Frazer Town,Andhra,1,3.5,500,21,1.0
+HSR,Andhra,18,3.55,522,1468,0.44
+Indiranagar,Andhra,5,3.64,600,2116,0.2
+Jayanagar,Andhra,10,3.64,480,1528,0.5
+JP Nagar,Andhra,9,3.55,566,3441,0.56
+Kalyan Nagar,Andhra,9,3.39,422,1128,0.89
+Kammanahalli,Andhra,17,3.65,547,3280,0.65
+Koramangala 4th Block,Andhra,2,3.4,700,67,1.0
+Koramangala 5th Block,Andhra,6,3.6,575,1039,1.0
+Koramangala 6th Block,Andhra,7,3.88,528,1727,0.57
+Koramangala 7th Block,Andhra,13,3.64,615,5492,0.69
+Lavelle Road,Andhra,2,3.7,525,216,0.0
+Malleshwaram,Andhra,5,3.2,510,685,0.4
+Marathahalli,Andhra,34,3.44,545,6679,0.41
+MG Road,Andhra,4,3.6,533,427,0.25
+New BEL Road,Andhra,11,3.46,468,1794,0.55
+Old Airport Road,Andhra,12,3.71,525,3481,0.5
+Rajajinagar,Andhra,9,3.67,633,2311,0.67
+Residency Road,Andhra,6,3.88,591,2893,0.33
+Sarjapur Road,Andhra,17,3.43,541,1583,0.53
+Whitefield,Andhra,40,3.32,463,3149,0.65
+Banashankari,Arabian,1,3.9,300,160,1.0
+Bannerghatta Road,Arabian,4,3.6,325,137,0.5
+Basavanagudi,Arabian,1,3.8,300,66,1.0
+Bellandur,Arabian,1,3.5,350,8,0.0
+Brigade Road,Arabian,1,3.9,700,450,1.0
+Brookefield,Arabian,2,,300,0,0.5
+BTM,Arabian,10,3.63,310,320,0.6
+Electronic City,Arabian,7,3.47,450,1714,0.71
+Frazer Town,Arabian,2,3.7,400,139,1.0
+HSR,Arabian,7,3.72,435,392,0.57
+Jayanagar,Arabian,5,3.78,580,1707,0.6
+JP Nagar,Arabian,5,3.85,460,2797,0.8
+Kalyan Nagar,Arabian,8,3.67,406,432,0.63
+Kammanahalli,Arabian,12,3.73,581,1614,0.42
+Koramangala 4th Block,Arabian,6,3.45,425,582,0.5
+Koramangala 5th Block,Arabian,4,3.25,425,72,0.5
+Koramangala 6th Block,Arabian,6,3.75,491,2460,0.67
+Koramangala 7th Block,Arabian,9,3.58,461,2250,0.78
+Lavelle Road,Arabian,3,3.75,316,193,0.67
+Malleshwaram,Arabian,1,3.8,300,179,1.0
+Marathahalli,Arabian,8,3.55,618,2253,0.75
+MG Road,Arabian,4,4.13,612,4535,0.5
+New BEL Road,Arabian,2,3.7,575,29,0.0
+Old Airport Road,Arabian,4,3.53,725,462,0.5
+Rajajinagar,Arabian,1,3.9,1200,96,0.0
+Sarjapur Road,Arabian,7,3.46,521,1445,1.0
+Whitefield,Arabian,12,3.47,586,3663,0.5
+Basavanagudi,Asian,2,3.9,900,138,0.5
+Brigade Road,Asian,1,4.4,1200,282,0.0
+BTM,Asian,2,3.7,600,37,0.5
+Church Street,Asian,2,4.2,2500,917,0.0
+Electronic City,Asian,1,,400,0,1.0
+HSR,Asian,3,3.65,1033,871,0.67
+Indiranagar,Asian,3,4.4,1333,83,0.33
+Jayanagar,Asian,2,3.75,550,367,0.5
+JP Nagar,Asian,3,3.7,833,637,0.67
+Kalyan Nagar,Asian,1,3.4,400,6,1.0
+Kammanahalli,Asian,3,4.33,833,875,1.0
+Koramangala 4th Block,Asian,2,4.3,650,128,0.0
+Koramangala 5th Block,Asian,1,4.0,300,42,1.0
+Koramangala 7th Block,Asian,7,4.14,878,9625,0.71
+Lavelle Road,Asian,1,4.4,2000,232,1.0
+Marathahalli,Asian,4,4.13,925,7558,0.5
+MG Road,Asian,2,3.3,1400,102,0.0
+New BEL Road,Asian,2,4.25,1150,3655,1.0
+Old Airport Road,Asian,7,4.17,1225,5006,0.71
+Residency Road,Asian,7,4.27,1814,8675,0.43
+Sarjapur Road,Asian,5,3.9,950,2018,0.8
+Whitefield,Asian,9,4.28,1422,6634,0.67
+Koramangala 6th Block,Assamese,1,4.1,500,616,1.0
+Old Airport Road,Assamese,1,3.3,400,26,1.0
+Sarjapur Road,Australian,1,3.8,400,37,1.0
+JP Nagar,Awadhi,1,,500,0,0.0
+Koramangala 6th Block,Awadhi,1,3.5,200,12,0.0
+MG Road,Awadhi,1,4.2,1500,138,1.0
+Banashankari,Bakery,12,3.7,316,332,0.17
+Bannerghatta Road,Bakery,20,3.38,345,335,0.35
+Basavanagudi,Bakery,20,3.75,337,1133,0.3
+Bellandur,Bakery,16,3.48,378,480,0.44
+Brigade Road,Bakery,14,3.73,364,323,0.43
+Brookefield,Bakery,27,3.54,429,1160,0.52
+BTM,Bakery,37,3.61,414,3179,0.46
+Church Street,Bakery,7,3.48,350,157,0.14
+Electronic City,Bakery,38,3.3,375,739,0.45
+Frazer Town,Bakery,14,3.68,335,706,0.21
+HSR,Bakery,37,3.57,358,1132,0.43
+Indiranagar,Bakery,24,3.44,383,686,0.38
+Jayanagar,Bakery,22,3.73,443,703,0.36
+JP Nagar,Bakery,23,3.56,347,514,0.39
+Kalyan Nagar,Bakery,18,3.49,419,355,0.39
+Kammanahalli,Bakery,22,3.56,375,917,0.41
+Koramangala 4th Block,Bakery,9,3.66,422,377,0.33
+Koramangala 5th Block,Bakery,6,3.44,450,476,0.5
+Koramangala 6th Block,Bakery,14,3.73,385,301,0.36
+Koramangala 7th Block,Bakery,17,3.73,329,672,0.59
+Lavelle Road,Bakery,15,3.58,390,238,0.13
+Malleshwaram,Bakery,14,3.55,389,538,0.43
+Marathahalli,Bakery,28,3.57,431,853,0.46
+MG Road,Bakery,13,3.79,380,1446,0.46
+New BEL Road,Bakery,12,3.4,391,242,0.25
+Old Airport Road,Bakery,22,3.66,436,6754,0.59
+Rajajinagar,Bakery,26,3.7,348,1837,0.38
+Residency Road,Bakery,11,3.7,354,1577,0.45
+Sarjapur Road,Bakery,26,3.61,484,1545,0.58
+Whitefield,Bakery,38,3.72,417,2301,0.63
+Electronic City,Bar Food,1,,1600,0,0.0
+JP Nagar,Bar Food,1,,1500,0,0.0
+Kammanahalli,Bar Food,1,4.2,1800,471,1.0
+Bannerghatta Road,BBQ,1,3.4,200,7,1.0
+Brigade Road,BBQ,2,4.05,1500,535,0.0
+Church Street,BBQ,1,4.1,700,115,1.0
+Electronic City,BBQ,1,4.7,1500,544,0.0
+HSR,BBQ,1,,200,0,0.0
+Jayanagar,BBQ,1,4.1,1000,1551,1.0
+JP Nagar,BBQ,1,3.3,700,513,1.0
+Kammanahalli,BBQ,2,3.6,350,32,0.5
+Koramangala 5th Block,BBQ,2,4.0,650,812,0.5
+Koramangala 7th Block,BBQ,1,4.0,300,189,1.0
+Lavelle Road,BBQ,2,4.1,650,117,0.5
+Marathahalli,BBQ,4,3.75,475,1317,0.75
+New BEL Road,BBQ,1,,750,0,1.0
+Old Airport Road,BBQ,1,4.3,1000,2037,1.0
+Rajajinagar,BBQ,2,4.8,1025,1367,0.5
+Residency Road,BBQ,1,4.1,700,119,1.0
+Sarjapur Road,BBQ,2,4.0,1200,377,1.0
+Whitefield,BBQ,1,4.3,2000,400,0.0
+HSR,Belgian,1,,250,0,0.0
+Bannerghatta Road,Bengali,4,3.25,362,297,0.75
+Bellandur,Bengali,1,,350,0,0.0
+Brigade Road,Bengali,1,3.1,300,38,1.0
+Brookefield,Bengali,4,3.6,387,56,0.0
+BTM,Bengali,2,3.65,425,359,1.0
+Electronic City,Bengali,4,3.4,500,493,0.75
+HSR,Bengali,2,3.35,375,65,1.0
+Indiranagar,Bengali,3,4.1,600,1660,0.33
+Jayanagar,Bengali,3,3.6,450,695,0.67
+JP Nagar,Bengali,3,3.23,516,205,0.67
+Kalyan Nagar,Bengali,1,,300,0,0.0
+Kammanahalli,Bengali,2,4.0,300,182,0.5
+Koramangala 4th Block,Bengali,5,3.78,450,120,0.6
+Koramangala 5th Block,Bengali,2,4.0,625,2416,1.0
+Koramangala 6th Block,Bengali,2,3.4,650,368,1.0
+Koramangala 7th Block,Bengali,10,3.76,440,1710,0.6
+Malleshwaram,Bengali,1,4.0,300,124,1.0
+Marathahalli,Bengali,11,3.21,436,1392,0.55
+MG Road,Bengali,1,3.7,500,15,1.0
+New BEL Road,Bengali,4,3.0,287,14,0.0
+Old Airport Road,Bengali,3,3.5,350,27,0.33
+Residency Road,Bengali,1,4.5,1200,1142,1.0
+Sarjapur Road,Bengali,6,3.54,350,698,0.33
+Whitefield,Bengali,13,3.58,380,1429,0.31
+Banashankari,Beverages,8,3.82,235,516,0.63
+Bannerghatta Road,Beverages,14,3.33,219,165,0.57
+Basavanagudi,Beverages,6,4.0,300,106,0.67
+Bellandur,Beverages,6,3.53,290,98,0.5
+Brigade Road,Beverages,5,3.67,250,68,0.6
+Brookefield,Beverages,6,3.43,250,50,0.67
+BTM,Beverages,30,3.69,244,1509,0.53
+Church Street,Beverages,6,3.58,258,115,0.5
+Electronic City,Beverages,14,3.75,257,735,0.71
+Frazer Town,Beverages,6,3.47,191,111,0.67
+HSR,Beverages,12,3.58,341,277,0.58
+Indiranagar,Beverages,16,3.49,193,334,0.5
+Jayanagar,Beverages,21,3.7,238,2127,0.71
+JP Nagar,Beverages,8,3.55,206,221,0.63
+Kalyan Nagar,Beverages,12,3.57,254,262,0.58
+Kammanahalli,Beverages,14,3.59,226,357,0.43
+Koramangala 4th Block,Beverages,11,3.79,280,599,0.55
+Koramangala 5th Block,Beverages,10,3.82,290,461,0.8
+Koramangala 6th Block,Beverages,4,3.67,200,83,1.0
+Koramangala 7th Block,Beverages,23,3.68,215,1154,0.87
+Lavelle Road,Beverages,3,3.43,150,71,1.0
+Malleshwaram,Beverages,12,3.66,245,487,0.67
+Marathahalli,Beverages,26,3.53,275,775,0.58
+MG Road,Beverages,8,3.73,218,253,0.5
+New BEL Road,Beverages,5,3.7,250,198,0.8
+Old Airport Road,Beverages,15,3.85,363,1462,0.8
+Rajajinagar,Beverages,13,3.66,230,367,0.54
+Residency Road,Beverages,11,3.8,459,472,0.64
+Sarjapur Road,Beverages,20,3.69,292,884,0.75
+Whitefield,Beverages,25,3.69,269,878,0.68
+Bellandur,Bihari,1,,250,0,0.0
+Brookefield,Bihari,2,3.6,350,26,0.5
+Church Street,Bihari,1,,200,0,0.0
+Kammanahalli,Bihari,1,3.7,300,29,1.0
+Koramangala 4th Block,Bihari,1,4.2,300,106,1.0
+Koramangala 5th Block,Bihari,2,3.7,350,17,0.5
+Koramangala 6th Block,Bihari,1,3.7,400,34,1.0
+Lavelle Road,Bihari,1,3.5,250,10,0.0
+Marathahalli,Bihari,1,3.8,150,27,1.0
+New BEL Road,Bihari,1,,200,0,0.0
+Banashankari,Biryani,22,3.51,302,1289,0.41
+Bannerghatta Road,Biryani,26,3.44,426,984,0.62
+Basavanagudi,Biryani,13,3.7,411,5891,0.46
+Bellandur,Biryani,17,3.15,414,983,0.29
+Brigade Road,Biryani,7,3.93,557,2395,0.71
+Brookefield,Biryani,24,3.27,441,1392,0.38
+BTM,Biryani,46,3.35,406,2290,0.52
+Church Street,Biryani,7,3.37,264,42,0.0
+Electronic City,Biryani,55,3.44,410,7254,0.53
+Frazer Town,Biryani,13,3.57,376,504,0.31
+HSR,Biryani,38,3.21,398,1182,0.5
+Indiranagar,Biryani,17,3.29,282,161,0.12
+Jayanagar,Biryani,23,3.67,413,6196,0.7
+JP Nagar,Biryani,33,3.5,383,4696,0.58
+Kalyan Nagar,Biryani,33,3.37,356,786,0.33
+Kammanahalli,Biryani,38,3.51,366,2894,0.55
+Koramangala 4th Block,Biryani,27,3.35,385,2404,0.63
+Koramangala 5th Block,Biryani,19,3.59,371,1412,0.74
+Koramangala 6th Block,Biryani,26,3.53,415,10198,0.69
+Koramangala 7th Block,Biryani,42,3.76,460,11355,0.76
+Lavelle Road,Biryani,7,3.35,278,58,0.0
+Malleshwaram,Biryani,28,3.38,305,694,0.39
+Marathahalli,Biryani,42,3.47,467,12574,0.57
+MG Road,Biryani,14,3.33,400,1585,0.36
+New BEL Road,Biryani,19,3.37,389,2251,0.42
+Old Airport Road,Biryani,30,3.7,429,10201,0.6
+Rajajinagar,Biryani,43,3.54,336,4330,0.33
+Residency Road,Biryani,23,3.62,384,3707,0.52
+Sarjapur Road,Biryani,38,3.52,486,4331,0.71
+Whitefield,Biryani,50,3.49,483,8618,0.68
+Jayanagar,Bohri,1,3.6,300,52,1.0
+Whitefield,British,1,4.2,1600,1113,1.0
+Banashankari,Burger,2,3.85,475,791,1.0
+Bannerghatta Road,Burger,1,3.8,400,369,1.0
+Basavanagudi,Burger,4,3.7,450,758,0.75
+Bellandur,Burger,4,3.55,462,41,0.25
+Brookefield,Burger,5,3.2,490,790,0.6
+BTM,Burger,4,3.8,350,334,0.75
+Church Street,Burger,1,3.8,500,106,1.0
+Electronic City,Burger,7,3.46,557,1560,0.71
+Frazer Town,Burger,2,3.4,350,276,1.0
+HSR,Burger,5,3.7,390,599,1.0
+Indiranagar,Burger,4,3.73,412,1371,1.0
+Jayanagar,Burger,3,3.77,500,1854,1.0
+JP Nagar,Burger,8,3.63,456,1603,0.88
+Kalyan Nagar,Burger,6,3.65,408,903,0.83
+Kammanahalli,Burger,7,3.71,457,2396,1.0
+Koramangala 4th Block,Burger,4,3.77,487,944,1.0
+Koramangala 5th Block,Burger,2,3.85,450,139,1.0
+Koramangala 6th Block,Burger,3,3.95,450,839,1.0
+Koramangala 7th Block,Burger,7,3.86,457,2866,1.0
+Lavelle Road,Burger,1,4.3,500,288,1.0
+Malleshwaram,Burger,4,3.83,387,868,1.0
+Marathahalli,Burger,4,3.2,412,591,1.0
+New BEL Road,Burger,5,3.85,410,1306,0.8
+Old Airport Road,Burger,12,3.51,454,3836,0.92
+Rajajinagar,Burger,4,3.63,525,1215,1.0
+Residency Road,Burger,5,3.88,550,1397,1.0
+Sarjapur Road,Burger,6,3.63,466,908,0.83
+Whitefield,Burger,9,3.61,477,3191,0.78
+Brigade Road,Burmese,1,3.7,300,17,1.0
+Old Airport Road,Burmese,1,4.0,600,183,1.0
+Banashankari,Cafe,17,3.63,567,2260,0.59
+Bannerghatta Road,Cafe,18,3.63,536,1235,0.61
+Basavanagudi,Cafe,19,3.49,515,2724,0.53
+Bellandur,Cafe,9,3.41,655,352,0.33
+Brigade Road,Cafe,11,3.66,581,7008,0.45
+Brookefield,Cafe,12,3.33,533,1272,0.42
+BTM,Cafe,26,3.83,580,5107,0.62
+Church Street,Cafe,12,3.68,820,1113,0.33
+Electronic City,Cafe,20,3.52,545,1463,0.55
+Frazer Town,Cafe,7,3.53,685,318,0.43
+HSR,Cafe,17,3.49,555,872,0.47
+Indiranagar,Cafe,26,3.65,586,5737,0.23
+Jayanagar,Cafe,35,3.94,618,9594,0.54
+JP Nagar,Cafe,19,3.65,636,1934,0.47
+Kalyan Nagar,Cafe,16,3.74,581,2468,0.56
+Kammanahalli,Cafe,34,3.79,582,5611,0.44
+Koramangala 4th Block,Cafe,24,3.79,622,6875,0.67
+Koramangala 5th Block,Cafe,8,3.75,675,3030,0.88
+Koramangala 6th Block,Cafe,18,3.78,644,6909,0.67
+Koramangala 7th Block,Cafe,62,4.1,686,63263,0.58
+Lavelle Road,Cafe,13,3.71,742,3074,0.46
+Malleshwaram,Cafe,18,3.59,569,1501,0.44
+Marathahalli,Cafe,15,3.62,486,1751,0.2
+MG Road,Cafe,16,3.84,684,4970,0.56
+New BEL Road,Cafe,23,3.84,580,9955,0.61
+Old Airport Road,Cafe,30,3.95,584,15150,0.57
+Rajajinagar,Cafe,18,3.69,569,2450,0.56
+Residency Road,Cafe,38,3.86,693,15434,0.42
+Sarjapur Road,Cafe,20,3.89,618,4077,0.75
+Whitefield,Cafe,22,3.82,613,5125,0.64
+Electronic City,Charcoal Chicken,1,2.8,1000,48,1.0
+BTM,Chettinad,1,4.2,1300,2626,0.0
+Electronic City,Chettinad,1,4.0,300,117,1.0
+Frazer Town,Chettinad,1,3.6,600,20,1.0
+HSR,Chettinad,1,2.9,650,304,0.0
+Jayanagar,Chettinad,1,2.7,650,100,0.0
+Kalyan Nagar,Chettinad,1,2.9,200,38,1.0
+Kammanahalli,Chettinad,1,3.7,600,83,1.0
+Koramangala 6th Block,Chettinad,1,3.1,550,269,1.0
+Koramangala 7th Block,Chettinad,1,4.0,650,1161,0.0
+Marathahalli,Chettinad,2,3.65,600,328,0.0
+MG Road,Chettinad,2,3.85,650,383,0.5
+Old Airport Road,Chettinad,5,3.52,620,1620,0.8
+Sarjapur Road,Chettinad,1,,400,0,0.0
+Banashankari,Chinese,6,3.38,675,1433,0.5
+Bannerghatta Road,Chinese,29,3.43,479,1948,0.55
+Basavanagudi,Chinese,10,3.6,445,1137,0.6
+Bellandur,Chinese,12,3.36,466,647,0.5
+Brigade Road,Chinese,11,3.74,654,2250,0.45
+Brookefield,Chinese,19,3.29,368,224,0.53
+BTM,Chinese,41,3.5,421,2499,0.41
+Church Street,Chinese,7,3.85,607,373,0.14
+Electronic City,Chinese,44,3.47,520,3640,0.5
+Frazer Town,Chinese,11,3.52,536,601,0.36
+HSR,Chinese,26,3.46,444,1606,0.38
+Indiranagar,Chinese,17,3.56,617,3603,0.24
+Jayanagar,Chinese,24,3.59,587,5984,0.83
+JP Nagar,Chinese,27,3.52,485,3477,0.63
+Kalyan Nagar,Chinese,25,3.34,458,1020,0.6
+Kammanahalli,Chinese,43,3.68,473,5918,0.72
+Koramangala 4th Block,Chinese,20,3.66,455,3133,0.55
+Koramangala 5th Block,Chinese,10,3.49,365,409,0.5
+Koramangala 6th Block,Chinese,16,3.87,603,5656,0.69
+Koramangala 7th Block,Chinese,39,3.73,567,17328,0.67
+Lavelle Road,Chinese,17,3.6,641,1059,0.29
+Malleshwaram,Chinese,15,3.52,450,883,0.6
+Marathahalli,Chinese,34,3.54,523,5802,0.65
+MG Road,Chinese,18,3.51,780,3291,0.56
+New BEL Road,Chinese,25,3.58,488,3963,0.44
+Old Airport Road,Chinese,33,3.63,683,10634,0.67
+Rajajinagar,Chinese,28,3.72,535,6668,0.75
+Residency Road,Chinese,22,3.84,1054,9596,0.55
+Sarjapur Road,Chinese,24,3.64,529,2088,0.54
+Whitefield,Chinese,45,3.58,597,7562,0.47
+BTM,Coffee,1,3.9,550,45,1.0
+MG Road,Coffee,1,3.9,200,54,0.0
+Banashankari,Continental,2,,750,0,0.5
+Bannerghatta Road,Continental,3,3.3,966,31,0.67
+Basavanagudi,Continental,4,3.98,850,1388,0.5
+Bellandur,Continental,6,3.43,516,72,0.5
+Brigade Road,Continental,8,3.73,887,2333,0.63
+Brookefield,Continental,6,3.32,641,159,0.67
+BTM,Continental,5,3.78,590,741,1.0
+Church Street,Continental,5,3.63,675,359,0.2
+Electronic City,Continental,18,3.78,888,4102,0.17
+Frazer Town,Continental,3,4.0,1100,1188,0.0
+HSR,Continental,13,3.87,600,11193,0.23
+Indiranagar,Continental,7,3.9,950,2080,0.29
+Jayanagar,Continental,12,3.88,920,8458,0.67
+JP Nagar,Continental,13,3.74,703,4526,0.69
+Kalyan Nagar,Continental,7,3.67,678,1134,0.71
+Kammanahalli,Continental,18,3.77,914,6101,0.44
+Koramangala 4th Block,Continental,11,3.78,722,4245,0.36
+Koramangala 5th Block,Continental,2,3.9,1025,297,0.5
+Koramangala 6th Block,Continental,9,3.66,718,1917,0.11
+Koramangala 7th Block,Continental,34,4.11,1055,31047,0.53
+Lavelle Road,Continental,4,3.78,1625,215,0.0
+Malleshwaram,Continental,9,3.96,1338,2326,0.33
+Marathahalli,Continental,19,4.02,1197,15058,0.26
+MG Road,Continental,9,3.67,1087,1973,0.67
+New BEL Road,Continental,10,4.04,1160,5893,0.4
+Old Airport Road,Continental,28,4.01,1224,21661,0.29
+Rajajinagar,Continental,10,3.75,1025,3826,0.4
+Residency Road,Continental,19,4.1,1378,24893,0.26
+Sarjapur Road,Continental,16,3.96,1296,32437,0.56
+Whitefield,Continental,28,3.92,1257,19639,0.43
+Banashankari,Desserts,10,3.54,290,212,0.6
+Bannerghatta Road,Desserts,17,3.69,311,949,0.41
+Basavanagudi,Desserts,13,3.74,284,509,0.69
+Bellandur,Desserts,12,3.63,362,200,0.67
+Brigade Road,Desserts,13,3.55,361,293,0.31
+Brookefield,Desserts,7,3.52,550,102,0.29
+BTM,Desserts,44,3.99,389,8022,0.66
+Church Street,Desserts,8,3.8,443,104,0.13
+Electronic City,Desserts,13,3.51,223,248,0.46
+Frazer Town,Desserts,12,3.89,379,734,0.83
+HSR,Desserts,16,3.86,278,603,0.44
+Indiranagar,Desserts,8,3.81,512,1733,0.38
+Jayanagar,Desserts,16,3.91,362,3142,0.56
+JP Nagar,Desserts,13,3.67,357,663,0.69
+Kalyan Nagar,Desserts,10,4.04,325,560,0.5
+Kammanahalli,Desserts,12,3.78,429,1350,0.67
+Koramangala 4th Block,Desserts,10,3.73,360,1452,0.4
+Koramangala 5th Block,Desserts,8,3.9,421,843,0.5
+Koramangala 6th Block,Desserts,11,3.9,390,1596,0.73
+Koramangala 7th Block,Desserts,25,4.01,388,3955,0.64
+Lavelle Road,Desserts,12,3.98,450,981,0.58
+Malleshwaram,Desserts,14,3.64,353,374,0.5
+Marathahalli,Desserts,22,3.76,357,1442,0.64
+MG Road,Desserts,13,4.09,361,4804,0.85
+New BEL Road,Desserts,13,3.85,361,1275,0.69
+Old Airport Road,Desserts,22,3.9,372,4961,0.77
+Rajajinagar,Desserts,29,3.74,308,2166,0.45
+Residency Road,Desserts,12,3.96,395,2524,0.75
+Sarjapur Road,Desserts,16,3.8,375,1054,0.81
+Whitefield,Desserts,35,3.8,397,3696,0.54
+JP Nagar,Drinks Only,2,,125,0,0.0
+Kammanahalli,Drinks Only,1,,100,0,0.0
+Bellandur,European,1,3.9,2500,125,0.0
+Brigade Road,European,2,4.3,2750,1396,0.0
+Indiranagar,European,2,4.15,1400,4081,0.5
+Jayanagar,European,1,4.3,1500,1230,0.0
+Kammanahalli,European,2,4.4,1400,1811,0.0
+Koramangala 7th Block,European,4,4.53,1725,11871,0.25
+Malleshwaram,European,1,4.1,2500,187,0.0
+Marathahalli,European,3,4.8,1266,16826,0.0
+MG Road,European,1,4.1,2100,1343,0.0
+Old Airport Road,European,7,4.18,1985,7433,0.29
+Rajajinagar,European,1,4.1,1500,1189,0.0
+Residency Road,European,5,4.3,1600,8038,0.4
+Sarjapur Road,European,3,4.4,1533,3375,0.67
+Whitefield,European,5,4.12,1560,6352,0.4
+Banashankari,Fast Food,19,3.49,292,891,0.58
+Bannerghatta Road,Fast Food,23,3.39,273,453,0.43
+Basavanagudi,Fast Food,23,3.52,215,1025,0.22
+Bellandur,Fast Food,12,3.32,266,170,0.25
+Brigade Road,Fast Food,8,3.5,368,302,0.25
+Brookefield,Fast Food,13,3.5,273,420,0.38
+BTM,Fast Food,47,3.49,292,1367,0.6
+Church Street,Fast Food,2,3.9,225,202,0.5
+Electronic City,Fast Food,43,3.41,273,1219,0.37
+Frazer Town,Fast Food,22,3.5,309,665,0.59
+HSR,Fast Food,32,3.45,292,1281,0.25
+Indiranagar,Fast Food,20,3.31,257,373,0.2
+Jayanagar,Fast Food,21,3.61,350,2803,0.48
+JP Nagar,Fast Food,33,3.5,264,1322,0.42
+Kalyan Nagar,Fast Food,27,3.37,294,312,0.41
+Kammanahalli,Fast Food,28,3.53,305,971,0.64
+Koramangala 4th Block,Fast Food,20,3.61,312,903,0.6
+Koramangala 5th Block,Fast Food,10,3.8,320,1427,0.7
+Koramangala 6th Block,Fast Food,15,3.51,260,641,0.33
+Koramangala 7th Block,Fast Food,40,3.55,287,1506,0.72
+Lavelle Road,Fast Food,9,3.17,238,993,0.33
+Malleshwaram,Fast Food,29,3.58,301,1630,0.72
+Marathahalli,Fast Food,34,3.49,304,964,0.47
+MG Road,Fast Food,15,3.56,326,2088,0.67
+New BEL Road,Fast Food,35,3.54,283,1648,0.46
+Old Airport Road,Fast Food,37,3.55,391,6122,0.68
+Rajajinagar,Fast Food,42,3.52,256,2552,0.62
+Residency Road,Fast Food,12,3.67,345,1024,0.83
+Sarjapur Road,Fast Food,33,3.46,309,2292,0.45
+Whitefield,Fast Food,36,3.56,344,1433,0.56
+Bannerghatta Road,Finger Food,1,,500,0,0.0
+Basavanagudi,Finger Food,2,3.75,1750,1041,0.0
+Bellandur,Finger Food,1,3.8,2000,46,0.0
+Brigade Road,Finger Food,2,4.1,850,2510,0.0
+Brookefield,Finger Food,2,3.6,1750,52,0.0
+BTM,Finger Food,1,3.5,1200,39,0.0
+Church Street,Finger Food,1,,1500,0,0.0
+Electronic City,Finger Food,9,3.61,1444,799,0.11
+HSR,Finger Food,1,3.7,1500,51,0.0
+Indiranagar,Finger Food,4,3.73,1175,1914,0.0
+Jayanagar,Finger Food,7,3.82,1200,4099,0.43
+Kammanahalli,Finger Food,3,4.03,1233,1641,0.67
+Koramangala 4th Block,Finger Food,4,3.65,1587,360,0.0
+Koramangala 6th Block,Finger Food,5,3.82,1240,3700,0.2
+Koramangala 7th Block,Finger Food,8,4.15,1150,10791,0.38
+Lavelle Road,Finger Food,4,3.97,1700,875,0.0
+Malleshwaram,Finger Food,9,3.63,1533,1467,0.0
+Marathahalli,Finger Food,2,3.8,800,258,0.0
+MG Road,Finger Food,8,3.97,1725,1679,0.0
+Old Airport Road,Finger Food,4,4.03,1600,1622,0.25
+Rajajinagar,Finger Food,3,4.17,1416,2509,0.33
+Residency Road,Finger Food,9,3.77,1800,2945,0.11
+Sarjapur Road,Finger Food,1,4.4,1500,1476,1.0
+Whitefield,Finger Food,13,3.9,1596,3642,0.15
+Indiranagar,French,1,4.4,450,580,1.0
+Old Airport Road,French,1,4.3,6000,128,0.0
+Whitefield,French,2,4.1,650,395,0.0
+Rajajinagar,German,1,4.3,1800,2324,0.0
+JP Nagar,Goan,1,3.6,800,164,1.0
+Kalyan Nagar,Goan,1,3.3,800,6,0.0
+Kammanahalli,Goan,1,4.2,1400,367,1.0
+Koramangala 4th Block,Goan,1,3.4,400,6,0.0
+Koramangala 7th Block,Goan,1,4.0,750,396,1.0
+MG Road,Goan,1,4.1,1000,302,1.0
+Residency Road,Goan,1,4.2,1000,986,1.0
+Sarjapur Road,Goan,1,4.5,1800,200,0.0
+Jayanagar,Gujarati,1,3.7,200,19,1.0
+Marathahalli,Gujarati,1,3.4,200,85,1.0
+Banashankari,Healthy Food,3,3.45,333,20,0.67
+Bannerghatta Road,Healthy Food,3,3.2,333,635,0.33
+Basavanagudi,Healthy Food,1,4.3,800,1302,1.0
+Bellandur,Healthy Food,2,3.5,550,79,1.0
+Brookefield,Healthy Food,3,3.2,483,835,0.67
+BTM,Healthy Food,7,3.74,408,1636,0.86
+Church Street,Healthy Food,3,3.73,516,151,1.0
+Electronic City,Healthy Food,5,3.23,360,562,0.4
+Frazer Town,Healthy Food,2,3.6,475,531,1.0
+HSR,Healthy Food,6,3.95,508,350,0.33
+Indiranagar,Healthy Food,1,3.7,500,35,0.0
+Jayanagar,Healthy Food,3,3.97,533,874,1.0
+JP Nagar,Healthy Food,4,3.6,425,250,0.5
+Kalyan Nagar,Healthy Food,2,4.4,400,287,0.5
+Kammanahalli,Healthy Food,4,3.75,575,367,0.75
+Koramangala 4th Block,Healthy Food,2,3.65,250,43,1.0
+Koramangala 6th Block,Healthy Food,5,3.75,470,300,0.6
+Koramangala 7th Block,Healthy Food,7,3.73,392,1294,0.71
+Lavelle Road,Healthy Food,1,4.0,300,32,1.0
+Malleshwaram,Healthy Food,3,3.23,500,137,0.67
+Marathahalli,Healthy Food,5,3.33,450,187,0.6
+MG Road,Healthy Food,3,3.9,500,99,0.67
+New BEL Road,Healthy Food,2,3.6,400,192,0.5
+Old Airport Road,Healthy Food,17,3.78,517,3123,0.59
+Rajajinagar,Healthy Food,2,3.55,500,266,0.5
+Residency Road,Healthy Food,6,3.7,500,3191,0.67
+Sarjapur Road,Healthy Food,3,4.0,533,771,1.0
+Whitefield,Healthy Food,9,3.79,466,1469,0.78
+Basavanagudi,Hyderabadi,1,,300,0,1.0
+Bellandur,Hyderabadi,1,,400,0,0.0
+Brookefield,Hyderabadi,2,2.7,475,12,0.5
+BTM,Hyderabadi,2,2.95,575,54,0.5
+Electronic City,Hyderabadi,2,3.9,400,830,1.0
+Jayanagar,Hyderabadi,1,2.7,500,20,0.0
+Kammanahalli,Hyderabadi,1,3.3,800,106,1.0
+Koramangala 4th Block,Hyderabadi,2,3.15,800,368,0.5
+Koramangala 7th Block,Hyderabadi,2,3.7,375,50,0.5
+Marathahalli,Hyderabadi,7,3.47,621,1501,1.0
+New BEL Road,Hyderabadi,2,3.45,500,549,1.0
+Old Airport Road,Hyderabadi,2,3.55,550,202,0.5
+Rajajinagar,Hyderabadi,1,3.2,200,37,1.0
+Sarjapur Road,Hyderabadi,1,3.5,500,12,1.0
+Whitefield,Hyderabadi,2,4.0,900,762,1.0
+Banashankari,Ice Cream,6,3.7,241,486,0.17
+Bannerghatta Road,Ice Cream,13,3.6,244,309,0.38
+Basavanagudi,Ice Cream,8,3.73,268,590,0.5
+Bellandur,Ice Cream,6,3.8,233,100,0.5
+Brigade Road,Ice Cream,1,3.2,200,4,1.0
+Brookefield,Ice Cream,9,3.38,252,79,0.33
+BTM,Ice Cream,13,3.98,396,4903,0.77
+Church Street,Ice Cream,5,3.8,260,399,0.4
+Electronic City,Ice Cream,6,3.82,266,448,0.67
+Frazer Town,Ice Cream,6,3.92,241,693,0.33
+HSR,Ice Cream,14,3.88,295,1974,0.5
+Indiranagar,Ice Cream,8,3.89,256,2410,0.13
+Jayanagar,Ice Cream,14,3.82,262,1473,0.43
+JP Nagar,Ice Cream,10,3.93,295,1278,0.5
+Kalyan Nagar,Ice Cream,9,3.72,255,1103,0.22
+Kammanahalli,Ice Cream,8,3.63,331,768,0.88
+Koramangala 4th Block,Ice Cream,3,3.7,300,76,0.33
+Koramangala 5th Block,Ice Cream,4,3.9,300,486,0.5
+Koramangala 6th Block,Ice Cream,8,3.67,193,432,0.5
+Koramangala 7th Block,Ice Cream,10,4.02,285,3134,0.6
+Lavelle Road,Ice Cream,4,3.43,257,194,0.75
+Malleshwaram,Ice Cream,7,3.6,300,292,0.86
+Marathahalli,Ice Cream,11,3.47,254,1123,0.55
+MG Road,Ice Cream,4,3.45,250,117,0.25
+New BEL Road,Ice Cream,8,3.94,268,1108,0.25
+Old Airport Road,Ice Cream,11,3.9,309,6162,0.73
+Rajajinagar,Ice Cream,20,3.69,275,1318,0.45
+Residency Road,Ice Cream,6,3.93,325,2968,0.5
+Sarjapur Road,Ice Cream,16,3.86,275,1603,0.63
+Whitefield,Ice Cream,14,3.71,310,1603,0.71
+MG Road,Indonesian,1,4.0,400,43,1.0
+Kammanahalli,Iranian,1,3.8,800,107,1.0
+Banashankari,Italian,4,3.58,450,173,0.75
+Bannerghatta Road,Italian,2,3.05,550,189,1.0
+Basavanagudi,Italian,2,3.95,950,1223,1.0
+Bellandur,Italian,3,3.25,500,107,0.67
+Brigade Road,Italian,6,4.24,1733,2950,0.33
+Brookefield,Italian,3,3.63,650,183,1.0
+BTM,Italian,5,3.35,520,521,0.4
+Church Street,Italian,2,3.85,1400,353,0.0
+Electronic City,Italian,3,3.95,1200,86,0.67
+Frazer Town,Italian,1,3.5,300,62,1.0
+HSR,Italian,4,3.05,550,94,0.75
+Indiranagar,Italian,2,4.0,870,14962,0.0
+Jayanagar,Italian,6,4.1,991,4618,0.33
+JP Nagar,Italian,6,3.82,616,905,0.67
+Kalyan Nagar,Italian,3,3.8,466,86,0.33
+Kammanahalli,Italian,4,3.53,650,529,0.75
+Koramangala 4th Block,Italian,4,3.7,512,801,0.75
+Koramangala 5th Block,Italian,6,3.52,475,564,0.83
+Koramangala 6th Block,Italian,9,3.71,677,2814,0.67
+Koramangala 7th Block,Italian,6,4.2,1025,6374,0.5
+Lavelle Road,Italian,5,3.64,1640,821,0.6
+Malleshwaram,Italian,1,4.3,1400,354,0.0
+Marathahalli,Italian,3,3.25,466,132,0.67
+MG Road,Italian,3,3.9,1500,433,0.33
+New BEL Road,Italian,4,3.97,550,1842,0.75
+Old Airport Road,Italian,10,4.17,1200,19268,0.6
+Rajajinagar,Italian,5,3.98,1240,2137,0.6
+Residency Road,Italian,6,4.27,1783,8952,0.67
+Sarjapur Road,Italian,3,4.0,1066,1820,1.0
+Whitefield,Italian,11,3.87,1377,3882,0.36
+Brigade Road,Japanese,1,4.3,1400,548,0.0
+Church Street,Japanese,1,3.9,500,122,0.0
+Electronic City,Japanese,1,3.8,1200,27,0.0
+Indiranagar,Japanese,1,3.4,700,11,0.0
+Koramangala 6th Block,Japanese,1,4.2,1800,1155,1.0
+Lavelle Road,Japanese,2,4.25,3150,408,0.0
+Malleshwaram,Japanese,1,4.0,2200,207,0.0
+MG Road,Japanese,3,4.23,1766,1153,0.67
+Old Airport Road,Japanese,1,4.6,1200,3823,1.0
+Rajajinagar,Japanese,1,4.1,2600,4781,0.0
+Residency Road,Japanese,4,4.3,2225,3008,0.25
+Whitefield,Japanese,1,4.1,1400,1755,1.0
+Banashankari,Juices,3,3.8,166,231,0.33
+Bannerghatta Road,Juices,6,3.4,183,25,0.67
+Basavanagudi,Juices,3,3.73,216,115,0.67
+Bellandur,Juices,1,3.3,200,4,0.0
+Brigade Road,Juices,1,3.3,150,6,1.0
+Brookefield,Juices,4,3.1,200,46,1.0
+BTM,Juices,13,3.48,180,200,0.54
+Church Street,Juices,1,4.0,150,101,1.0
+Electronic City,Juices,4,,187,0,0.5
+Frazer Town,Juices,5,3.53,210,53,0.4
+HSR,Juices,5,3.25,170,20,0.6
+Indiranagar,Juices,6,3.63,196,67,0.0
+Jayanagar,Juices,4,3.57,162,495,1.0
+JP Nagar,Juices,7,3.7,214,255,0.57
+Kalyan Nagar,Juices,6,3.65,158,55,0.33
+Kammanahalli,Juices,2,3.3,175,6,0.5
+Koramangala 4th Block,Juices,4,3.43,162,43,0.75
+Koramangala 5th Block,Juices,3,3.47,150,80,0.67
+Koramangala 6th Block,Juices,3,3.6,166,146,0.67
+Koramangala 7th Block,Juices,3,3.37,150,19,0.33
+Lavelle Road,Juices,1,,150,0,0.0
+Malleshwaram,Juices,1,3.2,100,8,1.0
+Marathahalli,Juices,8,3.67,168,51,0.63
+New BEL Road,Juices,4,,162,0,0.5
+Old Airport Road,Juices,4,3.47,150,59,1.0
+Rajajinagar,Juices,2,2.7,175,43,0.5
+Residency Road,Juices,2,3.6,125,133,0.5
+Sarjapur Road,Juices,5,3.65,180,271,0.8
+Whitefield,Juices,2,3.7,275,116,0.5
+BTM,Kashmiri,1,3.5,600,74,1.0
+Whitefield,Kashmiri,1,3.7,1100,837,1.0
+Basavanagudi,Kebab,1,3.3,200,4,0.0
+Brookefield,Kebab,1,2.7,400,6,1.0
+BTM,Kebab,2,3.7,325,66,0.5
+Electronic City,Kebab,2,3.7,325,69,0.5
+Frazer Town,Kebab,4,3.8,225,38,0.0
+JP Nagar,Kebab,1,3.1,400,8,1.0
+Kalyan Nagar,Kebab,2,,175,0,0.0
+Kammanahalli,Kebab,1,,800,0,0.0
+Koramangala 4th Block,Kebab,3,3.25,333,11,0.33
+Koramangala 5th Block,Kebab,1,3.1,400,7,1.0
+Lavelle Road,Kebab,1,3.6,500,112,1.0
+Malleshwaram,Kebab,2,3.5,475,111,1.0
+Marathahalli,Kebab,1,3.0,400,11,1.0
+MG Road,Kebab,1,,150,0,0.0
+New BEL Road,Kebab,1,3.3,200,8,0.0
+Rajajinagar,Kebab,1,,200,0,0.0
+Residency Road,Kebab,1,4.4,250,181,0.0
+Sarjapur Road,Kebab,1,4.2,250,51,1.0
+Whitefield,Kebab,1,,450,0,0.0
+Bannerghatta Road,Kerala,9,3.7,333,509,0.11
+Bellandur,Kerala,2,,225,0,0.0
+Brookefield,Kerala,3,3.6,466,381,0.33
+BTM,Kerala,9,3.35,383,84,0.22
+Church Street,Kerala,4,3.43,350,60,0.25
+Electronic City,Kerala,21,3.38,395,871,0.24
+Frazer Town,Kerala,2,3.2,250,38,1.0
+HSR,Kerala,10,3.55,340,302,0.3
+Indiranagar,Kerala,4,3.0,300,20,0.25
+Jayanagar,Kerala,1,2.8,450,165,1.0
+JP Nagar,Kerala,8,3.44,393,378,0.75
+Kalyan Nagar,Kerala,3,3.7,383,251,0.67
+Kammanahalli,Kerala,16,3.57,431,1171,0.69
+Koramangala 4th Block,Kerala,5,3.5,540,1590,0.8
+Koramangala 5th Block,Kerala,9,3.59,344,218,0.44
+Koramangala 6th Block,Kerala,10,3.64,405,2559,0.5
+Koramangala 7th Block,Kerala,13,3.8,323,1666,0.69
+Lavelle Road,Kerala,1,3.5,250,12,1.0
+Malleshwaram,Kerala,4,3.8,562,731,0.5
+Marathahalli,Kerala,10,3.43,360,1070,0.4
+MG Road,Kerala,2,3.8,1050,368,0.5
+New BEL Road,Kerala,8,3.56,368,1181,0.75
+Old Airport Road,Kerala,10,3.67,465,2124,0.8
+Residency Road,Kerala,2,3.15,950,1154,0.5
+Sarjapur Road,Kerala,11,3.56,331,905,0.64
+Whitefield,Kerala,15,3.53,410,1839,0.47
+Basavanagudi,Konkan,1,3.8,1000,235,0.0
+JP Nagar,Konkan,1,4.1,700,468,0.0
+Kammanahalli,Konkan,1,4.1,550,232,1.0
+Sarjapur Road,Konkan,1,4.4,1400,898,1.0
+Indiranagar,Korean,1,4.1,1500,290,0.0
+Kammanahalli,Korean,3,4.1,1166,752,0.33
+Koramangala 7th Block,Korean,1,4.4,1200,331,0.0
+Marathahalli,Korean,1,3.6,900,18,1.0
+Residency Road,Korean,1,4.4,1100,1211,0.0
+Whitefield,Korean,1,3.8,900,63,1.0
+Brookefield,Lebanese,1,,150,0,1.0
+BTM,Lebanese,2,3.4,300,117,0.5
+JP Nagar,Lebanese,1,,200,0,0.0
+Koramangala 6th Block,Lebanese,1,4.5,1200,253,1.0
+Koramangala 7th Block,Lebanese,1,4.3,300,221,1.0
+Malleshwaram,Lebanese,1,3.9,300,47,0.0
+New BEL Road,Lebanese,1,,200,0,0.0
+Old Airport Road,Lebanese,1,4.2,1700,1352,1.0
+Rajajinagar,Lebanese,1,4.2,2500,566,0.0
+Residency Road,Lebanese,1,4.2,1000,116,0.0
+Sarjapur Road,Lebanese,2,3.65,375,133,0.5
+Brigade Road,Lucknowi,1,,400,0,0.0
+Brookefield,Lucknowi,1,3.6,500,13,0.0
+Koramangala 6th Block,Lucknowi,1,3.5,500,323,1.0
+MG Road,Lucknowi,1,3.8,500,724,1.0
+BTM,Maharashtrian,1,,200,0,0.0
+Frazer Town,Maharashtrian,1,,300,0,1.0
+HSR,Maharashtrian,1,3.7,850,829,1.0
+Jayanagar,Maharashtrian,1,3.6,600,135,0.0
+JP Nagar,Maharashtrian,2,3.9,600,119,1.0
+Kalyan Nagar,Maharashtrian,1,,450,0,0.0
+Kammanahalli,Maharashtrian,1,3.3,850,30,1.0
+Koramangala 6th Block,Maharashtrian,1,3.6,200,11,1.0
+Koramangala 7th Block,Maharashtrian,3,3.57,183,145,0.67
+Malleshwaram,Maharashtrian,1,4.1,300,196,1.0
+Marathahalli,Maharashtrian,1,,200,0,0.0
+MG Road,Maharashtrian,1,4.0,400,109,0.0
+Old Airport Road,Maharashtrian,1,3.0,250,25,1.0
+Rajajinagar,Maharashtrian,1,3.4,150,26,1.0
+Sarjapur Road,Maharashtrian,1,4.4,700,139,1.0
+Whitefield,Maharashtrian,2,4.2,450,938,0.5
+Koramangala 7th Block,Malaysian,1,4.4,1000,2403,1.0
+MG Road,Malaysian,1,4.5,1800,556,0.0
+Whitefield,Malaysian,1,4.4,1000,908,1.0
+Banashankari,Mangalorean,3,3.35,266,16,0.0
+Bannerghatta Road,Mangalorean,1,3.9,750,34,1.0
+Basavanagudi,Mangalorean,1,3.8,300,133,1.0
+BTM,Mangalorean,3,3.7,650,272,1.0
+Frazer Town,Mangalorean,1,4.0,400,72,1.0
+HSR,Mangalorean,1,3.1,400,85,1.0
+Jayanagar,Mangalorean,4,3.58,400,200,0.75
+JP Nagar,Mangalorean,2,3.85,375,223,1.0
+Kammanahalli,Mangalorean,1,3.2,300,35,1.0
+Koramangala 5th Block,Mangalorean,2,3.8,800,634,1.0
+Koramangala 6th Block,Mangalorean,1,4.0,1000,72,1.0
+Koramangala 7th Block,Mangalorean,3,3.8,475,405,0.67
+Lavelle Road,Mangalorean,4,3.65,512,206,0.25
+Malleshwaram,Mangalorean,3,3.67,583,614,0.67
+MG Road,Mangalorean,4,4.2,1183,852,0.5
+New BEL Road,Mangalorean,1,,200,0,0.0
+Rajajinagar,Mangalorean,5,3.68,530,794,0.6
+Residency Road,Mangalorean,6,4.0,1166,2848,0.83
+Sarjapur Road,Mangalorean,1,3.5,700,26,1.0
+Brookefield,Mediterranean,2,3.6,850,27,0.5
+Kammanahalli,Mediterranean,1,4.2,1400,789,0.0
+Koramangala 4th Block,Mediterranean,1,3.9,400,232,1.0
+Koramangala 7th Block,Mediterranean,2,4.45,1550,6776,0.5
+Lavelle Road,Mediterranean,1,3.9,700,256,1.0
+MG Road,Mediterranean,1,3.8,1700,34,0.0
+Rajajinagar,Mediterranean,1,4.0,1200,84,0.0
+Residency Road,Mediterranean,4,4.4,1375,2718,0.0
+Sarjapur Road,Mediterranean,2,4.0,1600,1361,0.5
+Whitefield,Mediterranean,2,4.0,1800,130,0.0
+Banashankari,Mexican,1,4.0,600,53,1.0
+Bannerghatta Road,Mexican,2,4.0,250,177,0.0
+Bellandur,Mexican,2,3.2,365,62,0.0
+Brookefield,Mexican,1,3.9,400,123,0.0
+BTM,Mexican,1,4.0,600,911,1.0
+Electronic City,Mexican,1,4.1,600,93,1.0
+HSR,Mexican,2,4.0,500,131,0.5
+Indiranagar,Mexican,5,4.1,820,2996,0.2
+Jayanagar,Mexican,3,3.9,600,152,0.67
+JP Nagar,Mexican,3,3.67,533,274,0.67
+Kalyan Nagar,Mexican,3,3.63,466,116,0.67
+Kammanahalli,Mexican,1,3.4,400,24,0.0
+Koramangala 4th Block,Mexican,2,3.95,650,310,1.0
+Koramangala 5th Block,Mexican,1,4.0,600,70,1.0
+Koramangala 6th Block,Mexican,1,,600,0,0.0
+Koramangala 7th Block,Mexican,5,3.86,560,4011,0.6
+Lavelle Road,Mexican,1,2.2,1000,409,1.0
+Malleshwaram,Mexican,2,4.15,500,176,0.5
+Marathahalli,Mexican,3,3.97,533,848,0.67
+New BEL Road,Mexican,3,3.95,450,236,0.33
+Old Airport Road,Mexican,3,4.2,600,820,0.33
+Rajajinagar,Mexican,1,3.8,600,53,1.0
+Residency Road,Mexican,3,4.07,833,1143,0.33
+Sarjapur Road,Mexican,2,4.0,500,178,0.5
+Whitefield,Mexican,2,4.0,600,234,1.0
+Kammanahalli,Middle Eastern,1,4.4,300,1514,1.0
+Banashankari,Mithai,4,3.63,262,152,0.25
+Bannerghatta Road,Mithai,4,3.58,300,157,0.5
+Basavanagudi,Mithai,9,3.73,266,456,0.56
+Bellandur,Mithai,1,3.2,200,4,0.0
+Brigade Road,Mithai,5,3.53,230,387,0.2
+Brookefield,Mithai,6,3.36,291,47,0.5
+BTM,Mithai,14,3.57,285,843,0.43
+Church Street,Mithai,2,3.2,225,6,0.0
+Electronic City,Mithai,7,3.44,257,74,0.43
+Frazer Town,Mithai,6,3.78,291,172,0.83
+HSR,Mithai,5,3.2,200,126,0.4
+Indiranagar,Mithai,4,3.3,237,154,0.25
+Jayanagar,Mithai,9,3.85,177,609,0.22
+JP Nagar,Mithai,10,3.31,320,317,0.6
+Kalyan Nagar,Mithai,6,3.7,350,103,0.33
+Kammanahalli,Mithai,7,3.62,278,366,0.71
+Koramangala 4th Block,Mithai,4,3.33,225,107,0.75
+Koramangala 5th Block,Mithai,8,3.71,243,1420,0.75
+Koramangala 6th Block,Mithai,3,3.4,283,38,0.33
+Koramangala 7th Block,Mithai,6,3.57,208,226,0.67
+Lavelle Road,Mithai,6,3.54,200,197,0.5
+Malleshwaram,Mithai,8,3.73,225,301,0.5
+Marathahalli,Mithai,10,3.61,310,390,0.4
+MG Road,Mithai,2,3.55,150,42,0.0
+New BEL Road,Mithai,10,3.64,320,534,0.6
+Old Airport Road,Mithai,6,4.05,325,601,0.83
+Rajajinagar,Mithai,17,3.59,282,444,0.41
+Residency Road,Mithai,4,3.9,275,359,0.25
+Sarjapur Road,Mithai,7,3.77,292,597,0.71
+Whitefield,Mithai,13,3.5,253,343,0.46
+HSR,Modern Indian,1,4.1,1200,512,0.0
+Kalyan Nagar,Modern Indian,1,,300,0,0.0
+Kammanahalli,Modern Indian,1,3.6,250,16,1.0
+Koramangala 7th Block,Modern Indian,2,4.4,1550,3992,0.0
+Malleshwaram,Modern Indian,1,4.2,1800,258,0.0
+Marathahalli,Modern Indian,1,4.0,1500,872,0.0
+Old Airport Road,Modern Indian,2,4.45,2150,2889,0.5
+Residency Road,Modern Indian,4,4.33,1550,3966,0.5
+Sarjapur Road,Modern Indian,1,4.3,1800,588,1.0
+Whitefield,Modern Indian,1,4.7,1500,292,1.0
+Bannerghatta Road,Momos,2,,200,0,1.0
+Brigade Road,Momos,1,,300,0,1.0
+Brookefield,Momos,1,,300,0,1.0
+BTM,Momos,4,,325,0,0.75
+Electronic City,Momos,1,,400,0,1.0
+JP Nagar,Momos,2,3.45,200,50,1.0
+Kalyan Nagar,Momos,2,,250,0,1.0
+Koramangala 4th Block,Momos,1,,300,0,1.0
+Koramangala 5th Block,Momos,1,,300,0,1.0
+Koramangala 7th Block,Momos,1,,600,0,1.0
+Malleshwaram,Momos,2,4.0,300,124,1.0
+Marathahalli,Momos,1,4.5,300,236,1.0
+Old Airport Road,Momos,1,,300,0,1.0
+Whitefield,Momos,1,3.8,300,29,1.0
+Banashankari,Mughlai,2,3.6,400,36,0.5
+Bannerghatta Road,Mughlai,2,3.0,300,25,0.0
+Basavanagudi,Mughlai,2,3.5,500,160,1.0
+BTM,Mughlai,5,3.48,360,299,1.0
+Church Street,Mughlai,4,3.53,487,148,0.5
+Electronic City,Mughlai,3,3.3,533,5,1.0
+Frazer Town,Mughlai,5,3.95,390,283,0.0
+HSR,Mughlai,5,3.23,500,69,0.2
+Indiranagar,Mughlai,2,3.8,1550,152,0.5
+Jayanagar,Mughlai,1,,300,5,1.0
+JP Nagar,Mughlai,2,,300,0,0.0
+Kalyan Nagar,Mughlai,2,3.7,600,544,1.0
+Kammanahalli,Mughlai,6,3.42,566,540,0.5
+Koramangala 4th Block,Mughlai,1,3.1,400,5,0.0
+Koramangala 6th Block,Mughlai,1,3.6,600,9,0.0
+Koramangala 7th Block,Mughlai,5,3.86,710,2409,0.8
+Malleshwaram,Mughlai,1,4.1,700,935,1.0
+Marathahalli,Mughlai,2,3.6,800,281,0.5
+MG Road,Mughlai,4,3.37,587,1043,0.75
+New BEL Road,Mughlai,2,4.0,925,117,0.5
+Old Airport Road,Mughlai,3,3.4,683,1196,0.33
+Rajajinagar,Mughlai,4,3.68,600,1002,0.5
+Residency Road,Mughlai,3,3.25,616,749,0.33
+Sarjapur Road,Mughlai,2,3.6,650,116,1.0
+Whitefield,Mughlai,4,3.7,687,3130,0.75
+Kammanahalli,Naga,1,4.0,550,211,1.0
+Residency Road,Nepalese,1,4.2,800,182,1.0
+Church Street,North Eastern,1,4.2,1000,121,1.0
+Kalyan Nagar,North Eastern,1,3.0,650,160,1.0
+Kammanahalli,North Eastern,1,,400,0,0.0
+Koramangala 4th Block,North Eastern,2,3.8,525,294,0.5
+Koramangala 6th Block,North Eastern,1,,300,0,0.0
+Koramangala 7th Block,North Eastern,1,,450,0,0.0
+MG Road,North Eastern,1,4.3,800,544,0.0
+Banashankari,North Indian,51,3.49,457,7203,0.53
+Bannerghatta Road,North Indian,103,3.37,490,10234,0.47
+Basavanagudi,North Indian,63,3.57,549,20122,0.43
+Bellandur,North Indian,68,3.3,446,3432,0.49
+Brigade Road,North Indian,36,3.68,708,5537,0.36
+Brookefield,North Indian,124,3.32,475,6170,0.55
+BTM,North Indian,148,3.45,441,8100,0.45
+Church Street,North Indian,28,3.41,853,1298,0.29
+Electronic City,North Indian,218,3.43,516,17908,0.41
+Frazer Town,North Indian,38,3.38,505,5156,0.37
+HSR,North Indian,128,3.45,459,16503,0.55
+Indiranagar,North Indian,73,3.45,472,7871,0.3
+Jayanagar,North Indian,120,3.65,565,28386,0.59
+JP Nagar,North Indian,100,3.52,458,16016,0.56
+Kalyan Nagar,North Indian,56,3.4,472,4657,0.5
+Kammanahalli,North Indian,91,3.53,484,14619,0.63
+Koramangala 4th Block,North Indian,88,3.54,449,10998,0.61
+Koramangala 5th Block,North Indian,60,3.63,444,11216,0.58
+Koramangala 6th Block,North Indian,53,3.63,519,17943,0.58
+Koramangala 7th Block,North Indian,156,3.73,538,65253,0.71
+Lavelle Road,North Indian,49,3.56,765,3542,0.24
+Malleshwaram,North Indian,80,3.66,733,13540,0.61
+Marathahalli,North Indian,226,3.53,510,45011,0.53
+MG Road,North Indian,52,3.71,652,11670,0.56
+New BEL Road,North Indian,97,3.52,450,9525,0.53
+Old Airport Road,North Indian,128,3.68,620,52380,0.64
+Rajajinagar,North Indian,111,3.63,637,19009,0.48
+Residency Road,North Indian,70,3.76,937,33881,0.43
+Sarjapur Road,North Indian,179,3.52,529,37159,0.66
+Whitefield,North Indian,229,3.56,564,35410,0.5
+Brookefield,Oriya,3,3.47,400,162,0.67
+Jayanagar,Oriya,2,3.4,550,542,1.0
+Koramangala 4th Block,Oriya,1,3.8,350,78,1.0
+Koramangala 7th Block,Oriya,1,3.9,250,185,1.0
+Marathahalli,Oriya,4,3.6,300,365,0.5
+Old Airport Road,Oriya,2,3.85,425,403,1.0
+Jayanagar,Parsi,1,3.6,400,14,1.0
+Residency Road,Parsi,1,4.4,1300,3730,1.0
+Banashankari,Pizza,8,3.7,506,1415,0.88
+Bannerghatta Road,Pizza,13,3.72,596,2006,0.77
+Basavanagudi,Pizza,10,3.63,630,5075,0.8
+Bellandur,Pizza,6,3.37,658,1191,0.83
+Brigade Road,Pizza,3,3.9,533,101,0.67
+Brookefield,Pizza,7,3.34,664,1136,0.71
+BTM,Pizza,6,3.72,600,1133,0.83
+Church Street,Pizza,2,3.7,575,305,1.0
+Electronic City,Pizza,11,3.31,545,2572,0.73
+Frazer Town,Pizza,4,3.53,512,1049,1.0
+HSR,Pizza,7,3.14,528,1328,0.71
+Indiranagar,Pizza,5,3.33,610,745,0.6
+Jayanagar,Pizza,12,3.9,595,11684,1.0
+JP Nagar,Pizza,8,3.71,606,2252,1.0
+Kalyan Nagar,Pizza,4,3.45,562,71,0.75
+Kammanahalli,Pizza,9,3.57,561,4107,1.0
+Koramangala 4th Block,Pizza,5,3.98,510,1583,1.0
+Koramangala 5th Block,Pizza,5,3.93,610,231,1.0
+Koramangala 6th Block,Pizza,3,3.83,583,598,1.0
+Koramangala 7th Block,Pizza,8,3.87,668,10024,0.63
+Lavelle Road,Pizza,2,4.0,450,504,1.0
+Malleshwaram,Pizza,3,3.65,766,4300,0.33
+Marathahalli,Pizza,11,3.58,645,5397,0.91
+MG Road,Pizza,2,3.45,750,113,1.0
+New BEL Road,Pizza,8,3.81,556,6338,1.0
+Old Airport Road,Pizza,17,3.36,535,8434,0.94
+Rajajinagar,Pizza,13,3.62,553,3454,0.77
+Residency Road,Pizza,8,3.9,662,1520,1.0
+Sarjapur Road,Pizza,7,3.6,578,4405,1.0
+Whitefield,Pizza,13,3.52,587,3840,0.54
+Old Airport Road,Portuguese,1,4.3,1200,1240,1.0
+Rajajinagar,Portuguese,1,4.1,1200,317,1.0
+Basavanagudi,Rajasthani,1,3.9,300,85,1.0
+Electronic City,Rajasthani,2,3.5,300,159,0.5
+Jayanagar,Rajasthani,2,3.6,600,2476,0.5
+JP Nagar,Rajasthani,1,4.2,1200,1242,0.0
+Kalyan Nagar,Rajasthani,2,3.75,450,273,1.0
+Kammanahalli,Rajasthani,1,4.4,1400,1129,0.0
+Koramangala 4th Block,Rajasthani,1,3.7,300,36,1.0
+Koramangala 7th Block,Rajasthani,1,4.0,500,832,1.0
+Lavelle Road,Rajasthani,1,4.0,800,930,0.0
+Malleshwaram,Rajasthani,1,4.2,1200,174,0.0
+Old Airport Road,Rajasthani,1,4.1,800,2100,1.0
+Residency Road,Rajasthani,1,4.3,1400,772,1.0
+Sarjapur Road,Rajasthani,2,3.65,400,801,1.0
+Whitefield,Rajasthani,2,4.05,850,1384,1.0
+Bannerghatta Road,Roast Chicken,1,3.8,400,72,1.0
+Bellandur,Roast Chicken,1,3.7,400,48,1.0
+Frazer Town,Roast Chicken,1,3.3,300,12,0.0
+HSR,Roast Chicken,1,3.3,300,55,1.0
+Jayanagar,Roast Chicken,1,3.4,300,130,1.0
+JP Nagar,Roast Chicken,1,3.3,300,5,0.0
+Kalyan Nagar,Roast Chicken,2,3.5,300,43,0.5
+Kammanahalli,Roast Chicken,1,3.4,300,50,1.0
+Banashankari,Rolls,2,3.3,125,4,0.5
+Bannerghatta Road,Rolls,4,3.5,250,58,0.75
+Basavanagudi,Rolls,1,,200,0,1.0
+Brigade Road,Rolls,1,3.0,500,10,1.0
+BTM,Rolls,1,,350,0,1.0
+Church Street,Rolls,2,,200,0,0.5
+Electronic City,Rolls,1,2.8,400,44,1.0
+Frazer Town,Rolls,3,3.3,200,4,0.0
+Indiranagar,Rolls,1,,150,0,0.0
+Jayanagar,Rolls,2,3.25,275,65,1.0
+JP Nagar,Rolls,4,3.38,237,92,0.75
+Kalyan Nagar,Rolls,7,3.67,200,357,0.71
+Kammanahalli,Rolls,3,3.7,200,59,0.67
+Koramangala 4th Block,Rolls,6,3.4,230,171,0.67
+Koramangala 5th Block,Rolls,2,3.9,275,252,1.0
+Koramangala 6th Block,Rolls,3,3.9,266,184,0.33
+Koramangala 7th Block,Rolls,2,3.55,325,50,1.0
+Malleshwaram,Rolls,1,,200,0,1.0
+MG Road,Rolls,3,3.67,333,269,0.33
+New BEL Road,Rolls,8,3.47,175,210,0.38
+Old Airport Road,Rolls,2,4.0,375,739,0.5
+Rajajinagar,Rolls,1,2.8,250,9,1.0
+Residency Road,Rolls,3,3.43,250,129,1.0
+Sarjapur Road,Rolls,2,3.25,300,166,1.0
+Whitefield,Rolls,4,3.83,300,295,1.0
+Old Airport Road,Russian,1,4.2,1300,2946,0.0
+Banashankari,Salad,1,3.7,600,136,1.0
+Bannerghatta Road,Salad,1,3.8,600,32,0.0
+Basavanagudi,Salad,1,3.8,500,177,1.0
+Bellandur,Salad,1,3.6,600,12,1.0
+Brigade Road,Salad,1,3.9,600,107,1.0
+Brookefield,Salad,2,3.3,600,211,1.0
+BTM,Salad,2,4.0,450,76,1.0
+Electronic City,Salad,3,3.9,366,146,0.33
+Frazer Town,Salad,1,3.6,600,74,0.0
+HSR,Salad,1,3.1,600,382,1.0
+Indiranagar,Salad,2,4.0,750,97,0.0
+Jayanagar,Salad,2,3.4,600,332,1.0
+JP Nagar,Salad,2,3.6,600,440,1.0
+Kalyan Nagar,Salad,1,4.0,600,209,1.0
+Kammanahalli,Salad,2,3.8,1000,431,1.0
+Koramangala 4th Block,Salad,3,3.57,333,106,0.67
+Koramangala 6th Block,Salad,2,3.45,475,15,0.0
+Koramangala 7th Block,Salad,1,4.2,1500,1629,1.0
+Lavelle Road,Salad,3,4.25,800,595,0.33
+MG Road,Salad,1,,300,0,0.0
+Old Airport Road,Salad,1,3.9,400,82,0.0
+Sarjapur Road,Salad,2,3.85,925,174,0.5
+Banashankari,Sandwich,2,,225,0,0.5
+Bannerghatta Road,Sandwich,1,,400,0,1.0
+Bellandur,Sandwich,1,3.5,400,32,1.0
+BTM,Sandwich,1,,300,0,1.0
+Electronic City,Sandwich,2,3.1,400,247,1.0
+Indiranagar,Sandwich,4,3.8,242,71,0.5
+Jayanagar,Sandwich,1,3.8,350,25,1.0
+Kammanahalli,Sandwich,1,3.7,400,41,1.0
+Koramangala 5th Block,Sandwich,2,3.7,150,27,1.0
+Koramangala 6th Block,Sandwich,2,3.6,250,44,1.0
+Koramangala 7th Block,Sandwich,2,4.0,225,126,0.0
+Rajajinagar,Sandwich,1,,200,0,0.0
+Residency Road,Sandwich,2,3.1,300,48,1.0
+Sarjapur Road,Sandwich,1,3.7,350,27,0.0
+Whitefield,Sandwich,1,3.4,400,42,1.0
+Banashankari,Seafood,2,3.7,400,188,1.0
+Bannerghatta Road,Seafood,3,3.55,450,45,1.0
+Basavanagudi,Seafood,2,3.9,450,229,1.0
+Brigade Road,Seafood,2,4.0,2000,915,0.5
+Brookefield,Seafood,1,2.8,650,70,0.0
+BTM,Seafood,1,,600,0,0.0
+Church Street,Seafood,3,3.2,500,23,0.33
+Electronic City,Seafood,3,3.9,416,418,0.67
+HSR,Seafood,1,,300,0,0.0
+Indiranagar,Seafood,3,4.2,1333,650,0.0
+Jayanagar,Seafood,2,3.9,375,100,1.0
+JP Nagar,Seafood,1,4.0,1200,350,1.0
+Kalyan Nagar,Seafood,3,3.8,700,866,1.0
+Kammanahalli,Seafood,4,3.73,612,661,0.75
+Koramangala 4th Block,Seafood,4,3.9,537,1146,0.75
+Koramangala 6th Block,Seafood,4,3.95,925,733,0.5
+Koramangala 7th Block,Seafood,6,3.67,508,284,0.67
+Lavelle Road,Seafood,1,4.2,500,302,0.0
+Malleshwaram,Seafood,2,3.8,975,391,1.0
+Marathahalli,Seafood,2,3.4,900,15,0.5
+MG Road,Seafood,1,4.1,650,198,1.0
+New BEL Road,Seafood,4,3.7,500,204,1.0
+Old Airport Road,Seafood,5,3.76,762,1539,0.8
+Rajajinagar,Seafood,7,3.82,700,600,0.71
+Residency Road,Seafood,5,3.98,820,1339,0.6
+Sarjapur Road,Seafood,4,3.78,750,4911,0.75
+Whitefield,Seafood,1,3.7,250,89,1.0
+Electronic City,Singaporean,1,4.3,1500,385,0.0
+Jayanagar,South American,1,4.1,1100,848,1.0
+Banashankari,South Indian,65,3.62,291,8353,0.42
+Bannerghatta Road,South Indian,58,3.45,332,2077,0.38
+Basavanagudi,South Indian,76,3.66,278,11664,0.29
+Bellandur,South Indian,23,3.39,339,216,0.35
+Brigade Road,South Indian,28,3.42,289,667,0.29
+Brookefield,South Indian,34,3.52,314,985,0.41
+BTM,South Indian,57,3.52,287,2113,0.35
+Church Street,South Indian,16,3.39,246,174,0.38
+Electronic City,South Indian,90,3.45,315,2371,0.3
+Frazer Town,South Indian,25,3.48,303,701,0.36
+HSR,South Indian,50,3.41,322,3415,0.42
+Indiranagar,South Indian,36,3.41,302,3778,0.22
+Jayanagar,South Indian,74,3.75,287,11926,0.41
+JP Nagar,South Indian,57,3.6,296,3266,0.56
+Kalyan Nagar,South Indian,39,3.5,271,1135,0.33
+Kammanahalli,South Indian,49,3.62,328,3292,0.53
+Koramangala 4th Block,South Indian,26,3.63,350,1750,0.46
+Koramangala 5th Block,South Indian,17,3.62,334,1746,0.53
+Koramangala 6th Block,South Indian,19,3.61,284,1363,0.53
+Koramangala 7th Block,South Indian,55,3.71,310,6232,0.45
+Lavelle Road,South Indian,64,3.57,310,2152,0.11
+Malleshwaram,South Indian,59,3.56,371,4588,0.39
+Marathahalli,South Indian,60,3.46,325,3472,0.4
+MG Road,South Indian,30,3.5,386,1699,0.37
+New BEL Road,South Indian,52,3.51,306,2124,0.46
+Old Airport Road,South Indian,40,3.6,331,6263,0.45
+Rajajinagar,South Indian,116,3.67,281,16481,0.41
+Residency Road,South Indian,47,3.65,309,9295,0.28
+Sarjapur Road,South Indian,42,3.5,304,2070,0.5
+Whitefield,South Indian,73,3.54,367,4181,0.34
+Residency Road,Spanish,2,4.25,2350,1512,0.0
+Sarjapur Road,Spanish,1,4.2,2000,515,0.0
+Brigade Road,Steak,1,3.5,4000,12,0.0
+Kammanahalli,Steak,1,4.3,1500,1446,1.0
+Koramangala 5th Block,Steak,1,4.5,1200,2073,1.0
+Marathahalli,Steak,1,,500,0,1.0
+Old Airport Road,Steak,1,,300,0,0.0
+Residency Road,Steak,1,4.3,1500,2053,1.0
+Whitefield,Steak,1,3.9,900,1649,1.0
+Banashankari,Street Food,6,3.43,241,69,0.17
+Bannerghatta Road,Street Food,13,3.58,226,364,0.77
+Basavanagudi,Street Food,11,3.63,181,569,0.18
+Bellandur,Street Food,2,,250,0,0.5
+Brigade Road,Street Food,6,3.35,183,83,0.17
+Brookefield,Street Food,3,3.45,283,192,0.33
+BTM,Street Food,14,3.65,196,1207,0.29
+Church Street,Street Food,1,3.7,250,18,0.0
+Electronic City,Street Food,8,3.5,200,711,0.75
+Frazer Town,Street Food,5,3.5,290,75,0.4
+HSR,Street Food,14,3.64,239,1595,0.57
+Indiranagar,Street Food,3,3.6,200,66,0.67
+Jayanagar,Street Food,8,3.7,187,384,0.25
+JP Nagar,Street Food,10,3.62,190,281,0.7
+Kalyan Nagar,Street Food,9,3.68,186,977,0.44
+Kammanahalli,Street Food,7,3.58,164,120,0.57
+Koramangala 4th Block,Street Food,7,3.57,214,563,0.57
+Koramangala 5th Block,Street Food,4,3.53,200,374,0.75
+Koramangala 6th Block,Street Food,1,3.5,200,70,0.0
+Koramangala 7th Block,Street Food,12,3.78,236,4931,0.42
+Lavelle Road,Street Food,7,3.75,185,160,0.29
+Malleshwaram,Street Food,4,3.67,150,493,0.0
+Marathahalli,Street Food,17,3.56,191,1455,0.41
+MG Road,Street Food,6,3.62,200,237,0.5
+New BEL Road,Street Food,10,3.6,270,1463,0.6
+Old Airport Road,Street Food,16,3.74,278,2855,0.81
+Rajajinagar,Street Food,11,3.68,154,731,0.18
+Residency Road,Street Food,7,3.35,264,529,0.57
+Sarjapur Road,Street Food,7,3.51,150,345,0.71
+Whitefield,Street Food,15,3.68,234,678,0.27
+Indiranagar,Sushi,1,4.1,2000,177,0.0
+Whitefield,Sushi,1,4.7,2000,277,1.0
+Bannerghatta Road,Tamil,1,3.5,250,8,1.0
+Bellandur,Tamil,1,,200,0,0.0
+Electronic City,Tamil,1,3.8,350,67,1.0
+Banashankari,Tea,1,3.2,200,6,1.0
+Bannerghatta Road,Tea,2,3.45,200,138,1.0
+Bellandur,Tea,1,,250,0,1.0
+Brigade Road,Tea,1,,200,0,1.0
+Brookefield,Tea,1,3.8,250,90,1.0
+BTM,Tea,2,3.8,150,7,1.0
+Electronic City,Tea,3,3.5,200,41,0.67
+Frazer Town,Tea,3,3.8,183,149,0.67
+JP Nagar,Tea,3,3.5,233,326,1.0
+Kalyan Nagar,Tea,1,3.8,250,38,1.0
+Kammanahalli,Tea,3,3.2,283,20,0.67
+Koramangala 4th Block,Tea,3,3.63,233,157,0.67
+Koramangala 5th Block,Tea,2,,225,0,1.0
+Koramangala 6th Block,Tea,2,,175,0,1.0
+Koramangala 7th Block,Tea,2,3.85,200,325,0.5
+Malleshwaram,Tea,2,3.2,200,14,1.0
+Marathahalli,Tea,2,3.4,225,5,1.0
+MG Road,Tea,1,3.9,200,54,1.0
+New BEL Road,Tea,2,,225,0,1.0
+Rajajinagar,Tea,1,3.3,200,9,1.0
+Sarjapur Road,Tea,3,3.5,300,65,1.0
+Whitefield,Tea,2,3.4,250,17,1.0
+Bannerghatta Road,Thai,1,,400,0,0.0
+BTM,Thai,1,3.2,550,5,1.0
+HSR,Thai,1,3.9,400,30,0.0
+Kammanahalli,Thai,1,2.9,550,18,1.0
+Koramangala 7th Block,Thai,1,4.0,1200,371,1.0
+Malleshwaram,Thai,1,3.3,600,23,1.0
+MG Road,Thai,2,4.25,1650,1092,1.0
+New BEL Road,Thai,1,4.0,800,66,0.0
+Old Airport Road,Thai,4,4.13,1675,2325,0.75
+Residency Road,Thai,5,4.26,1760,4025,0.4
+Sarjapur Road,Thai,1,3.1,550,10,1.0
+Whitefield,Thai,2,3.6,550,187,0.5
+Bannerghatta Road,Tibetan,2,3.1,225,29,1.0
+Bellandur,Tibetan,1,3.4,300,10,0.0
+Brookefield,Tibetan,1,,300,0,1.0
+Electronic City,Tibetan,2,3.6,400,98,1.0
+Frazer Town,Tibetan,1,2.8,400,40,1.0
+HSR,Tibetan,1,,400,0,1.0
+Indiranagar,Tibetan,1,2.7,400,71,1.0
+Jayanagar,Tibetan,3,3.6,350,136,1.0
+JP Nagar,Tibetan,2,2.8,300,91,1.0
+Kalyan Nagar,Tibetan,1,3.6,400,90,1.0
+Koramangala 4th Block,Tibetan,3,3.8,333,1043,0.67
+Koramangala 5th Block,Tibetan,2,3.2,250,16,1.0
+Koramangala 6th Block,Tibetan,1,4.2,400,559,1.0
+Koramangala 7th Block,Tibetan,6,3.92,433,1109,0.83
+Lavelle Road,Tibetan,1,4.0,250,47,0.0
+Malleshwaram,Tibetan,1,3.9,400,285,1.0
+Marathahalli,Tibetan,2,3.3,375,103,1.0
+MG Road,Tibetan,2,3.55,400,131,1.0
+New BEL Road,Tibetan,2,3.8,400,309,0.5
+Residency Road,Tibetan,2,4.1,300,343,0.5
+Whitefield,Tibetan,3,3.6,500,538,0.33
+Basavanagudi,Turkish,1,,300,0,1.0
+BTM,Turkish,1,4.3,250,70,1.0
+HSR,Turkish,2,4.3,375,1099,1.0
+Kalyan Nagar,Turkish,1,3.6,400,17,0.0
+Kammanahalli,Turkish,1,3.6,350,22,1.0
+Koramangala 5th Block,Turkish,1,4.0,300,269,1.0
+Koramangala 7th Block,Turkish,1,3.7,300,14,1.0
+Malleshwaram,Turkish,1,3.7,350,33,0.0
+Marathahalli,Turkish,1,4.1,450,671,1.0
+New BEL Road,Turkish,1,3.4,400,64,0.0
+Sarjapur Road,Turkish,1,3.5,300,22,1.0
+Basavanagudi,Vietnamese,1,3.6,700,105,1.0
+Kammanahalli,Vietnamese,1,3.2,150,9,0.0
+Koramangala 6th Block,Vietnamese,1,4.4,1000,1811,1.0
+Lavelle Road,Vietnamese,1,4.4,3200,516,0.0
+Old Airport Road,Vietnamese,1,4.4,1100,2950,0.0
+Rajajinagar,Vietnamese,1,4.5,1000,789,1.0

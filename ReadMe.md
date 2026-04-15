@@ -1,10 +1,6 @@
 \# Zomato Bangalore - Data Engineering Project
 
-
-
 This project takes raw restaurant data from Kaggle (Zomato Bangalore, around 51,000 rows) and turns it into a working Power BI dashboard. The pipeline goes through three layers - Bronze, Silver, and Gold - using SQL Server, Python, and Power BI. Also added sentiment scoring on the review text and KMeans clustering to group the restaurants into segments.
-
-
 
 ## Dashboard Preview
 
@@ -17,8 +13,6 @@ This project takes raw restaurant data from Kaggle (Zomato Bangalore, around 51,
 
 \## Tools used and why
 
-
-
 |Layer|Tool|Reason|
 |-|-|-|
 |Loading|Python + pandas|The file is small (50 MB). pandas reads CSVs cleanly and pushes data straight to SQL Server with `to_sql`. No need for Spark or anything heavy.|
@@ -28,119 +22,65 @@ This project takes raw restaurant data from Kaggle (Zomato Bangalore, around 51,
 |Clustering|scikit-learn, KMeans|Easy to explain, fast, and works well with numeric features after scaling. Other options like DBSCAN don't assign every point to a cluster, which I needed|
 |Dashboard|Power BI|Connects directly to SQL Server, loads data into its own fast engine, and DAX measures let me write KPI logic that points back to specific SQL columns|
 
-
-
 What I left out on purpose: Airflow (one CSV doesn't need a scheduler), Spark (data is too small), indexes on Silver (12K rows will get scanned anyway, indexes don't help). Each of these is a choice I can defend, not something I forgot.
 
-
-
 \## How the data flows
-
-
 
 ![Pipeline Aarchitecture](pipeline.png)
 
 Source CSV gets loaded into Bronze with pandas. Silver does the cleaning and dedup in T-SQL, splitting into a restaurant dimension and a listings fact. Gold has six aggregate tables for the dashboard, plus two ML extensions (sentiment scores and KMeans segments) and one view that joins them. Power BI reads only from Gold.
 
-
-
-
-
-
-
 \## Main findings
-
-
 
 The dashboard is built around four insights:
 
-
-
 1\. Marathahalli needs more European restaurants. Only three European places in that area, and all three are rated 4.5 with about 5,650 votes per restaurant. That's a clear market gap. Indiranagar (European) and Koramangala 4th Block (American) are also worth a look.
-
-
 
 2\. Online ordering lifts ratings by about 0.14 stars in Mid and Luxury tiers. But only 27% of Luxury restaurants offer online ordering. Could be a missed chance, or could be a deliberate choice by those restaurants. The data doesn't tell you which, but the gap itself is worth noting.
 
-
-
 3\. WYT RestroPub on MG Road has a 2.6 star rating but 89% of its 225 written reviews are positive. This is the biggest mismatch between star rating and actual review text in the whole dataset, and it has enough reviews to be taken seriously. Something is off with how the stars came about.
-
-
 
 4\. About a quarter of Bangalore restaurants are "undiscovered favourites". 5,796 places that are cheap, don't have many votes, but the people who do eat there write very positive reviews. Good marketing target for any platform that wants to help these places get seen.
 
-
-
 \## How to run this yourself
-
-
 
 ```bash
 
-
-
 \# 1. Set up Python environment
 
-conda create -n zomato python=3.11 -y
-
-conda activate zomato
-
-pip install pandas sqlalchemy pyodbc vaderSentiment scikit-learn
-
-
+    conda create -n zomato python=3.11 -y
+    conda activate zomato
+    pip install pandas sqlalchemy pyodbc vaderSentiment scikit-learn
 
 \# 2. Create the database (run in SSMS)
-
-\# Run sql/01\_database\_setup.sql
-
-
+     Run sql/01\_database\_setup.sql
 
 \# 3. Load raw data into Bronze
 
-python python/01\_load\_raw\_to\_sql.py
-
-
+    python python/01\_load\_raw\_to\_sql.py
 
 \# 4. Build Silver (run in SSMS)
 
-\# Run sql/03\_silver\_tables.sql
-
-
+     Run sql/03\_silver\_tables.sql
 
 \# 5. Build Gold structural tables (run in SSMS)
 
-\# Run sql/04\_gold\_tables.sql - but skip the view block at the end
-
-
+     Run sql/04\_gold\_tables.sql - but skip the view block at the end
 
 \# 6. Run the Python analytics
 
-python python/02\_sentiment\_analysis.py
+    python python/02\_sentiment\_analysis.py
+    python python/03\_clustering.py
 
-python python/03\_clustering.py
+ \# 7. Now run the view block from sql/04\_gold\_tables.sql
 
+    (it needs gold.restaurant\_sentiment to exist first)
 
-
-\# 7. Now run the view block from sql/04\_gold\_tables.sql
-
-\# (it needs gold.restaurant\_sentiment to exist first)
-
-
-
-\# 8. Open visualization/zomato\_dashboard.pbix in Power BI Desktop
-
-\# and click Refresh.
-
-
+\# 8. Open visualization/zomato\_dashboard.pbix in Power BI Desktop and click Refresh.
 
 ```
 
-
-
 Change the server name in the Python scripts and in the Power BI connection if you are not running against `SAIDEEPAK-PC\\SQLEXPRESS` with Windows Auth.
-
-
 
 \## Folder layout
 

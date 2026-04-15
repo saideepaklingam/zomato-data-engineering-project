@@ -21,7 +21,7 @@ This project takes raw restaurant data from Kaggle (Zomato Bangalore, around 51,
 
 |Layer|Tool|Reason|
 |-|-|-|
-|Loading|Python + pandas|The file is small (50 MB). pandas reads CSVs cleanly and pushes data straight to SQL Server with `to\\\\\\\_sql`. No need for Spark or anything heavy.|
+|Loading|Python + pandas|The file is small (50 MB). pandas reads CSVs cleanly and pushes data straight to SQL Server with `to_sql`. No need for Spark or anything heavy.|
 |Storage|SQL Server|Reliable database, good support for T-SQL features I needed like window functions, CTEs, and TRY\_CAST. Also forces column types at load time, so bad data gets caught early.|
 |Cleaning|T-SQL|The work here is column cleaning, type fixing, and dedup. SQL is built for exactly this. Writing the same thing in pandas would take more code and run slower.|
 |Sentiment|VADER|Works well on short English reviews like these. Runs on a normal laptop CPU in a few minutes. BERT would take hours for barely better results.|
